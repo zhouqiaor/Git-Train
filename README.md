@@ -24,9 +24,9 @@ git push -u origin master
 
 [Developing AngularJS Git Commit Guidelines](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
 
-## [git_commit_template](git_commit_template.md)
 
-## [Git commit message 规范](https://zhuanlan.zhihu.com/p/69989048)
+## Conventional Commits
+[Git commit message 规范](https://zhuanlan.zhihu.com/p/69989048)
 
 [约定式提交 1.0.0-beta.4](https://www.conventionalcommits.org/zh-hans/v1.0.0-beta.4/)
 
