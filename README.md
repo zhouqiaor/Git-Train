@@ -7,13 +7,10 @@ https://github.com/HerbertHe/GitCommitTraining
 ```shell
 ~~echo "# GitTrain" >> README.md~~ # Linux
 echo # GitTrain >> README.md # Windows
-
 git init
 git add README.md
-
 ~~git commit -m "first commit"~~
 git commit -m ":tada: Initialize Repo"
-
 git remote add origin git@github.com:zhouqiaor/GitTrain.git
 git push -u origin master
 ```
